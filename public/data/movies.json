@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "stock": 10,
+    "rating": 9.3,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX674_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "genre": "Crime",
+    "stock": 8,
+    "rating": 9.2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Godfather: Part II",
+    "genre": "Crime",
+    "stock": 5,
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "stock": 12,
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "12 Angry Men",
+    "genre": "Drama",
+    "stock": 6,
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX974_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "stock": 7,
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWU0OGJmZTEtY2E2OC00MDhjLThjMWMtYTk0Zjk3ZmZhOTE0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Good, the Bad and the Ugly",
+    "genre": "Western",
+    "stock": 3,
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Return of the King",
+    "genre": "Fantasy",
+    "stock": 9,
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Fight Club",
+    "genre": "Drama",
+    "stock": 11,
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "stock": 4,
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+  }
+]
